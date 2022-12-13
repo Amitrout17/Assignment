@@ -4,9 +4,9 @@ const cloudinary=require('cloudinary')
 
 
 cloudinary.config({
-  cloud_name: "amitrout17",
-  api_key: "676243933426987",
-  api_secret: "YFRvnwrKlFdRccmaMKP9HVKhGko",
+  cloud_name: "yourcloudinaryname",
+  api_key: "your api key",
+  api_secret: "your api secret",
 });
 
 // Handling Uncaught Exception
